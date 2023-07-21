@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main(){
+    int x=100;
+    printf("value of x is %d",x);
+}
+
+
+#include<stdio.h>
+int main(){
+    int n;
+    scanf("%d",&n);
+    printf("enter the element u entered %d",n);
+    
+}
+
+
